@@ -7,7 +7,6 @@ Cervical Nucleus Segmentation
 </a>
 
 <br>
-<br>
 <b>Download ImageMask-Dataset</b><br>
 You can download our dataset from the google drive 
 <a href="https://drive.google.com/file/d/1Bv0MuqoBEJnWNxUz4gaAAYgNEIocsE9Q/view?usp=sharing">
